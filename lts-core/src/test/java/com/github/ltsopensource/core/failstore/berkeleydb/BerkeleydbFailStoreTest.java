@@ -1,3 +1,4 @@
+/*
 package com.github.ltsopensource.core.failstore.berkeleydb;
 
 import com.github.ltsopensource.core.cluster.Config;
@@ -14,9 +15,11 @@ import org.junit.Test;
 
 import java.util.List;
 
+*/
 /**
  * Robert HG (254963746@qq.com) on 5/26/15.
- */
+ *//*
+
 public class BerkeleydbFailStoreTest {
 
     FailStore failStore;
@@ -63,4 +66,4 @@ public class BerkeleydbFailStoreTest {
 //        failStore.delete(key);
 //    }
 
-}
+}*/

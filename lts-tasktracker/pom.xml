@@ -24,5 +24,14 @@
         </dependency>
     </dependencies>
 
-
+  <distributionManagement>
+    <repository>
+      <id>lgren</id>
+      <url>file:///E:/Maven/Repository/aaa/</url>
+    </repository>
+    <snapshotRepository>
+      <id>snapshots</id>
+      <url>file:///E:/Maven/Repository/bbb/</url>
+    </snapshotRepository>
+  </distributionManagement>
 </project>

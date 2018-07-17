@@ -1,3 +1,4 @@
+/*
 package com.github.ltsopensource.core.failstore.leveldb;
 
 import com.github.ltsopensource.core.cluster.Config;
@@ -14,9 +15,11 @@ import org.junit.Test;
 
 import java.util.List;
 
+*/
 /**
  * @author Robert HG (254963746@qq.com) on 6/12/15.
- */
+ *//*
+
 public class LeveldbFailStoreTest {
 
     private String key = "23412x";
@@ -58,4 +61,4 @@ public class LeveldbFailStoreTest {
         }
     }
 
-}
+}*/

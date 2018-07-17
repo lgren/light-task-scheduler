@@ -1,3 +1,4 @@
+/*
 package com.github.ltsopensource.core.commons.concurrent.limiter;
 
 
@@ -5,9 +6,11 @@ import org.junit.Test;
 
 import java.util.concurrent.atomic.AtomicLong;
 
+*/
 /**
  * @author Robert HG (254963746@qq.com) on 3/16/16.
- */
+ *//*
+
 public class RateLimiterTest {
 
     static volatile boolean stop = false;
@@ -46,4 +49,4 @@ public class RateLimiterTest {
         System.out.println("block=" + blockNum.get());
     }
 
-}
+}*/

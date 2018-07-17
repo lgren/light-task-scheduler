@@ -1,3 +1,4 @@
+/*
 package com.github.ltsopensource.core;
 
 import com.github.ltsopensource.core.support.CronExpression;
@@ -7,9 +8,11 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
+*/
 /**
  * @author Robert HG (254963746@qq.com) on 3/3/15.
- */
+ *//*
+
 public class CronExpressionTest {
 
     @Test
@@ -38,3 +41,4 @@ public class CronExpressionTest {
 
 
 }
+*/
